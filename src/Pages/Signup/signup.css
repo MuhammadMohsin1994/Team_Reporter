@@ -44,7 +44,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border: 1px solid #BFCDE0;
-    height: 420px;
+    padding-bottom: 25px;
 }
 
 .sign-up{
@@ -55,4 +55,14 @@
 .forgot{
     color: #40A9FF;
     text-decoration: none;
+}
+
+.required{
+    font-size: 14px;
+    color: red;
+    margin-bottom: 10px;
+}
+
+.have-account{
+    margin-bottom: 20px;
 }
